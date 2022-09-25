@@ -1,4 +1,4 @@
-# **Equalization Step by Step vs OpenCV Function**
+<h> Equalization Step by Step vs OpenCV Function <h>
 
 In this code, we compare the final equalizated image vs the result of function from OpenCV. 
 The main idea is obtain normalized histogram and cumulative histograma from normal image and then, obtain equalization transform and also its histograms. 
