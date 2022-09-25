@@ -20,11 +20,11 @@ Finally repeat the process since equalization transform and compare histograms a
 
 ### Before
 
-![original](/im1.png)
+![original](im1.png)
 
 ### After
 
-![equalized](/im2.png)
+![equalized](im2.png)
 
 ## Authors
 
