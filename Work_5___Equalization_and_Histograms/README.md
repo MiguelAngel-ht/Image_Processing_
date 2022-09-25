@@ -17,7 +17,8 @@ Finally repeat the process since equalization transform and compare histograms a
 
 
 ## Example of Equalization 
-[![image](https://www.researchgate.net/publication/269694707/figure/fig1/AS:613512946655267@1523284293454/Example-of-histogram-equalization-a-The-input-image-and-b-its-graylevel-histogram.png)](https://www.researchgate.net/publication/269694707/figure/fig1/AS:613512946655267@1523284293454/Example-of-histogram-equalization-a-The-input-image-and-b-its-graylevel-histogram.png)
+![image](https://www.researchgate.net/publication/269694707/figure/fig1/AS:613512946655267@1523284293454/Example-of-histogram-equalization-a-The-input-image-and-b-its-graylevel-histogram.png)
+[![Ref](https://www.researchgate.net/publication/269694707/figure/fig1/AS:613512946655267@1523284293454/Example-of-histogram-equalization-a-The-input-image-and-b-its-graylevel-histogram.png)]
 
 
 ## Authors
