@@ -1,14 +1,21 @@
-<h> Equalization Step by Step vs OpenCV Function <h>
+
+# Equalization Step by Step vs OpenCV Function
 
 In this code, we compare the final equalizated image vs the result of function from OpenCV. 
 The main idea is obtain normalized histogram and cumulative histograma from normal image and then, obtain equalization transform and also its histograms. 
 Finally repeat the process since equalization transform and compare histograms and images.
 
 
-**Histogram** is a graphical representation of the distribution of data. 
 
-**Normalized Histogram** is a histogram but values from 0 to 1 and the sum of all values is 1.
+## Acknowledgements
+*Documentation of specific functions was inserted just click on it :) 
+ - [Python](https://www.python.org/)
+ - [Numpy](https://numpy.org/doc/stable/reference/generated/numpy.ma.masked_equal.html)
+ - [Matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.stem.html#matplotlib.pyplot.stem)
+ - [OpenCV](https://docs.opencv.org/4.x/d5/daf/tutorial_py_histogram_equalization.html)
 
-**Cumulative Histogram** is a histogram where every values is cumulated.
+## Authors
 
-**Normalized Cumulative Histogram** is similar to cumulative histogram but values from 0 to 1 and the last value is equal to 1.
+- [Miguel Ángel Hernández Tapia](https://github.com/MiguelAngel-ht)
+
+
