@@ -14,6 +14,12 @@ Finally repeat the process since equalization transform and compare histograms a
  - [Matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.stem.html#matplotlib.pyplot.stem)
  - [OpenCV](https://docs.opencv.org/4.x/d5/daf/tutorial_py_histogram_equalization.html)
 
+
+
+## Example of Equalization 
+[![image](https://www.researchgate.net/publication/269694707/figure/fig1/AS:613512946655267@1523284293454/Example-of-histogram-equalization-a-The-input-image-and-b-its-graylevel-histogram.png)](https://www.researchgate.net/)
+
+
 ## Authors
 
 - [Miguel Ángel Hernández Tapia](https://github.com/MiguelAngel-ht)
