@@ -18,13 +18,13 @@ Representing a image in only 2 values. Only exist 2 colors.
 
 La corrección gamma es una operación no lineal que se usa para codificar y decodificar luminancia.
 
-## Example of Equalization 
+## Results
 
-### Before
+### Mama
 
 ![Mama](Resultado1.png)
 
-### After
+### Squeleton
 
 ![Squeleton](Resultado2.png)
 
