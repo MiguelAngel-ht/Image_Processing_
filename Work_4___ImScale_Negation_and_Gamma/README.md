@@ -22,11 +22,11 @@ La corrección gamma es una operación no lineal que se usa para codificar y dec
 
 ### Before
 
-![Mama]()
+![Mama](Resultado 1.png)
 
 ### After
 
-![Squeleton]()
+![Squeleton](Resultado 2.png)
 
 ## Acknowledgements
 *Documentation of specific functions was inserted just click on it :) 
