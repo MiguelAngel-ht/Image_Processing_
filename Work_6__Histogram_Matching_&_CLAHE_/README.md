@@ -4,12 +4,17 @@
 In image processing, histogram matching or histogram specification is the transformation of an image so that its histogram matches a specified histogram.
 The well-known histogram equalization method is a special case in which the specified histogram is uniformly distributed.
 
+
+	
+![hist_mat](histogram_MATCHING.gif)
+
+
 # CLAHE 
 
 Ordinary AHE tends to overamplify the contrast in near-constant regions of the image, since the histogram in such regions is highly concentrated. As a result, AHE may cause noise to be amplified in near-constant regions. 
 Contrast Limited AHE (CLAHE) is a variant of adaptive histogram equalization in which the contrast amplification is limited, so as to reduce this problem of noise amplification.
 
-
+![equvscla](equ_vs_clahe.jpg)
 
 
 
