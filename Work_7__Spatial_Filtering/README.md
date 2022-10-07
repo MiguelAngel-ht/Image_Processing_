@@ -7,6 +7,14 @@ Spatial filtering modifies an image by replacing the value of each pixel with a 
     <img width="25%" src="convolution.gif">
 </p>
 
+# Kernels
+
+In image processing, a kernel (convolution array, or mask) is a small array that is used for blur, focus, highlight, edge detection, and more. This is achieved by performing a convolution between a core and an image.
+
+<p align="center" width="50%">
+    <img width="50%" src="bordersandkernels.png">
+</p>
+
 ## Acknowledgements
 *Documentation of specific functions was inserted just click on it :) 
  - [Python](https://www.python.org/)
