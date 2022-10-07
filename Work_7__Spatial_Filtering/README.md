@@ -20,7 +20,7 @@ In image processing, a kernel (convolution array, or mask) is a small array that
 We can recreate the effect of a camera's movement while taking a photo by creating a kernel that simulates this.
 
 <p align="center" width="50%">
-    <img width="50%" src="motioneffect.tif">
+    <img width="50%" src="motioneffect.png">
 </p>
 
 ## Acknowledgements
