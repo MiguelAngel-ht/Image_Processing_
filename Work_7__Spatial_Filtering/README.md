@@ -4,7 +4,7 @@ Spatial filtering modifies an image by replacing the value of each pixel with a 
 
 
 <p align="center" width="50%">
-    <img width="50%" src="convolution.gif">
+    <img width="25%" src="convolution.gif">
 </p>
 
 ## Acknowledgements
