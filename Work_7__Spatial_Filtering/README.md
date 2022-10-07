@@ -3,6 +3,9 @@
 Spatial filtering modifies an image by replacing the value of each pixel with a function of the values of the pıxel and its neighbors. If the operation performed on the image pixels are linear, then the filter is called a linear spatial filter.
 
 
+<p align="center" width="50%">
+    <img width="50%" src="convolution.gif">
+</p>
 
 ## Acknowledgements
 *Documentation of specific functions was inserted just click on it :) 
