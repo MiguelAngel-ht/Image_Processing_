@@ -21,10 +21,10 @@ This is highly effective in noise removal while keeping edges sharp. But the ope
 ## RESULTS
 
 <p align="center" width="100%">
-    <img width="25%" src="plot2.png">
+    <img width="50%" src="plot2.png">
 </p>
 <p align="center" width="100%">
-    <img width="25%" src="plot3.png">
+    <img width="50%" src="plot3.png">
 </p>
 
 ## Acknowledgements
