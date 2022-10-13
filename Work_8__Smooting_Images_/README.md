@@ -17,6 +17,16 @@ akes the median of all the pixels under the kernel area and the central element 
 ## Bilateral Blurring
 
 This is highly effective in noise removal while keeping edges sharp. But the operation is slower compared to other filters. 
+
+## RESULTS
+
+<p align="center" width="50%">
+    <img width="25%" src="plot2.png">
+</p>
+<p align="center" width="50%">
+    <img width="25%" src="plot3.png">
+</p>
+
 ## Acknowledgements
 *Documentation of specific functions was inserted just click on it :) 
  - [Python](https://www.python.org/)
