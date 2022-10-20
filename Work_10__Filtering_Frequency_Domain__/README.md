@@ -2,6 +2,14 @@
 
 Frequency Domain Filters are used for smoothing and sharpening of image by removal of high or low frequency components. Sometimes it is possible of removal of very high and very low frequency.
 
+## Aplication
+
+Remove Periodic Noise
+
+<p align="center" width="100%">
+    <img width="100%" src="Notch_filtering.png">
+</p>
+
 
 
 ## Acknowledgements
