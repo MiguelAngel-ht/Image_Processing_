@@ -27,6 +27,7 @@ This is highly effective in noise removal while keeping edges sharp. But the ope
     <img width="50%" src="plot3.png">
 </p>
 
+
 ## Acknowledgements
 *Documentation of specific functions was inserted just click on it :) 
  - [Python](https://www.python.org/)
