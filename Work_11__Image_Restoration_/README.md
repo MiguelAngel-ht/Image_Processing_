@@ -3,8 +3,10 @@
 Image restoration is the operation of taking a corrupt/noisy image and estimating the clean, original image. 
 Corruption may come in many forms such as motion blur, noise and camera mis-focus.
 
-<p align="center" width="75%">
-    <img width="100%" src="img_res.png">
+This file contains adpmedian and spfilt functions in python using numpy and opencv. Those functions are originals from the book Digital Image Processing by Gonzalez...
+
+<p align="center" width="60%">
+    <img width="60%%" src="img_res.png">
 </p>
 
 ## Acknowledgements
