@@ -3,8 +3,8 @@
 Image restoration is the operation of taking a corrupt/noisy image and estimating the clean, original image. 
 Corruption may come in many forms such as motion blur, noise and camera mis-focus.
 
-<p align="center" width="100%">
-    <img width="100%" src="">
+<p align="center" width="75%">
+    <img width="100%" src="img_res">
 </p>
 
 ## Acknowledgements
