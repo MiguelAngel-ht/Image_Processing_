@@ -22,7 +22,7 @@ Closure is the reverse of opening, dilation followed by erosion. It is useful fo
 
 
 <p align="center" width="60%">
-    <img width="60%%" src="morph_4_0.png" link="https://bioimagebook.github.io/chapters/2-processing/5-morph/morph.html">
+    <img width="60%%" src="https://bioimagebook.github.io/_images/morph_4_0.png">
 </p>
 
 ## Acknowledgements
