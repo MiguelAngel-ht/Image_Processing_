@@ -18,7 +18,7 @@ The opening is just another name for erosion followed by dilation. It is useful 
 
 Closure is the reverse of opening, dilation followed by erosion. It is useful for closing small holes within foreground objects, or small black dots in the object.
 
-![Exa](https://bioimagebook.github.io/chapters/2-processing/5-morph/morph.html)
+![Exa](https://bioimagebook.github.io/_images/morph_4_0.png)
 
 
 <p align="center" width="60%">
