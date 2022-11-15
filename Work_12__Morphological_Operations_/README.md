@@ -17,3 +17,17 @@ The opening is just another name for erosion followed by dilation. It is useful 
 ### Closing
 
 Closure is the reverse of opening, dilation followed by erosion. It is useful for closing small holes within foreground objects, or small black dots in the object.
+
+
+## Acknowledgements
+*Documentation of specific functions was inserted just click on it :) 
+ - [Python](https://www.python.org/)
+ - [Numpy](https://numpy.org/doc/stable/reference/generated/numpy.ones.html)
+ - [Matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow.html)
+ - [Plotly](https://plotly.com/python/imshow/)
+ - [OpenCV](https://docs.opencv.org/4.x/d9/d61/tutorial_py_morphological_ops.html)
+
+## Authors
+
+- [Miguel Ángel Hernández Tapia](https://github.com/MiguelAngel-ht)
+
